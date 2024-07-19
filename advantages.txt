@@ -1,0 +1,15 @@
+ADVANTAGES OF DOCKER are
+-uses less memory
+-provides light weight virtualization
+-do not require full os to run applications 
+-runs containers in a second 
+
+
+
+
+DISADVANTAGES
+-inccreases complexity due to additional layer
+-difficult to manage large amoyunt of containers 
+- =increases cache memory (we have to regularly delete the volumes and networking cache)
+-applications that are made to run only on one os , cannot run on docker 
+

@@ -1,0 +1,6 @@
+DEFINITION:
+a client server application containing major components 
+it mainlly contains these components as 
+-SERVER also called deamon process
+-REST API used to track deamon 
+-CMD 

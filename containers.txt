@@ -1,0 +1,10 @@
+CONTAINERS:
+the main work of containers is to manage all operations , it is made from images . it allows developers to package applicationswith libraries
+and dependencies and transfer all in one package 
+
+
+
+VIRTUAL MACHINE :
+- are a softwares or we can say a tool which helps us in running different operating system simultaneouslty 
+- the operating system in which virtal machine runs are called as virtualized operatying system 
+ 

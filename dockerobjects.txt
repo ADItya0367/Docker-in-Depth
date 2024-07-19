@@ -1,0 +1,8 @@
+DOCKER OBJECTS :
+-the main components that docker uses are as follows
+
+1)-Images(helps in container creation , it uses private and public registry to manage containers)
+2)-Containers(used to hold entire packages and bundle it at last phase)
+3)-Network(it helps in the initiation of comminication between the containers for efficient transmission of data)
+4)-Host (used when network is no longer needed )
+5)-Bridge(default network driver )

@@ -1,0 +1,10 @@
+INSTALLING OPERATING SYSTEM 
+look we have docker client now . (if not please install it )
+-------------------------------
+
+*****    installing docker client first
+*****    install ubuntu version in docker client , byvusing these commands 
+         -docker --version(to check the version of docker)
+         -docker pull ubuntu:20.04
+         -we got our image of ubuntu of version 20.04
+         

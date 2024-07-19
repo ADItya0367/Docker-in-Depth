@@ -1,0 +1,5 @@
+In this series we will be discussing the core concepts of docker and will implement the basic things 
+that are required for practical knowledge 
+
+
+1)- INTRODUCTION 

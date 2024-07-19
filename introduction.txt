@@ -1,0 +1,62 @@
+Docker definitoin :- docker is mainly a software that helps in developing, running and 
+shipping our software . it is mainly used in the case when 
+we are working in an organisation and everyone has to work on their own specific 
+operating system , duue to this at the time of production 
+our code mainly fails and we encounters many conflicts .
+
+in order to resolve this issue we mainly use docker which is a tool that enable us to
+write our software on it without worring about the infrastructures 
+
+
+by using docker our all environment becomes same , local , testing and production 
+earlier we have to install all the required softwares to build our software but 
+suppose in case we don not have large hard disk space , so their docker plays an important role 
+
+GOAL: is to work on one operating system irrespective of thinking about the infrastructure 
+ 
+ Docker provides us an operatig system on which we can perform our operations 
+ and it fully relies on Microservice architecture design pattern of software
+
+
+ ** on production we mainly use the Linux operating system , and the main 
+ linux distributions are as follows 
+ -ubuntu
+ -fedora
+ -debian
+ -mandriva
+ -cent os 
+
+** whenever a project is createed then at tht time only the version of operating system is
+selected and then entire team workws on that version of os 
+example - ubuntu:20.0
+
+Docker mainky  helps us in creation of containers . a container is a  virtual space 
+where we can run oour services or operating system .container mainly provides
+the required credentials for developing our applications 
+------------------------------------------------------------------------------------------
+ Why do we need docker ??
+
+ - it provides consistent and fast delivery of softwares much faster
+ - containers mainly provide sthe facility of CI/CD  continious integration and deploymemnt 
+
+------------------------------------------------------------------------------------------
+ARCHITECTURE OF DOCKER 
+
+The architecture of dockerc mainly contains three things 
+1)- CLIENT- matlab humara operating system 
+2)- DEAMON- deamon ka main kam ye h ki sare services ko run karega, it stores every data into one single directory and track each and every 
+    happenings that are done with images networks and containers 
+3)- REGISTRY- registry is mainly a hub which provides us the different images of operating system , through which we download our images and work on it 
+and hence iploading at last .
+
+
+-------------------------------------------------------------------------------------------
+
+BEFORE PROCEDDING 
+-make sure to enable virtual technology by going into your bios , virtual technology helps is a functionality that helps us in the smooth running
+of operating system . if it is disabled then our operating system will not be performing well.... it will lag .
+
+------------------------------------------------------------------------------------------
+DOCKER CLIENT
+as we have alredy seen that docker client is just our operating system so ...we have to install it locally but we will not be working 
+with the client ... we will direct work on the vscode 
